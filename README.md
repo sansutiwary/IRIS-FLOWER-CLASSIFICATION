@@ -1,6 +1,6 @@
 # Iris Flower Classification
 
-![Iris Flowers](https://example.com/iris_flower_image.png)
+![Iris Flowers]
 
 Welcome to the Iris Flower Classification repository! This project focuses on classifying Iris flowers into different species based on various features such as sepal length, sepal width, petal length, and petal width. It serves as a simple yet classic example of a machine learning classification problem.
 
